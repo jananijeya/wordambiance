@@ -8,6 +8,17 @@ the body element, I can grab any element to style because my CSS elements will a
     /*color: black;*/
 /*}*/
 
-#bootstrap-override #worksTable{
+#bootstrap-override #catInput{
+    background-image: url('/img/searchicon.png'); /*Search icon*/
+    background-position: 10px 12px; /* Position icon */
+    background-repeat: no-repeat; /* Don't repeat icon */
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd; /* Add gray border */
+    margin-bottom: 12px; /*Add space below  input */
+}
 
+#bootstrap-override #worksTable{
+    width: 100%;
 }

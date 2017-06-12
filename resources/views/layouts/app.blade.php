@@ -59,7 +59,7 @@
                     <a href="{{ route('works.writing') }}">writing.</a>
                 </li>
                 <li>
-                    <a href="{{ route('works.about') }}">about me.</a>
+                    <a href="{{ route('works.about') }}">about.</a>
                 </li>
             </ul>
         </div>
