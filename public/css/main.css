@@ -1,0 +1,13 @@
+/* CUSTOM CSS */
+
+/* Note: An easy way to override boostrap is to check each element's weighting. By adding id="bootstrap-override" (ID = 100 points) to
+the body element, I can grab any element to style because my CSS elements will always have more weighting than Bootstrap's.
+ */
+
+/*#bootstrap-override h1 {*/
+    /*color: black;*/
+/*}*/
+
+#bootstrap-override #worksTable{
+
+}
